@@ -1,0 +1,1 @@
+loadstring(Game:HttpGet("https://raw.githubusercontent.com/Showcaser1s/Mowing-simulator/main/Mowing"))()
